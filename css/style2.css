@@ -1,0 +1,31 @@
+.ctc {
+  background: #333636;
+  text-align: center;
+  margin-top: -30px;
+}
+.ctc h2 {
+  padding-top: 30px;
+  color: white;
+}
+.ctc ul {
+  padding: 0;
+}
+.ctc ul li {
+  display: inline-block;
+  padding: 20px 90px;
+}
+.ctc ul li img {
+  width: 60px;
+  height: 60px;
+}
+.ctc ul li p {
+  text-decoration: none;
+  color: white;
+  font-size: 15px;
+}
+.ctc ul li a {
+  text-decoration: none;
+}
+.ctc ul li a p:hover {
+  color: tomato;
+}
